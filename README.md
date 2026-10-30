@@ -1,57 +1,31 @@
-<div align="center">
+```sh
+$ whoami
+chess
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1400&color=FFFFFF&center=true&vCenter=true&width=520&lines=oi!+eu+sou+chess;ricing+no+Hyprland;plugins+pro+Discord;jogos+no+Roblox">
-  <img alt="oi! eu sou chess" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1400&color=000000&center=true&vCenter=true&width=520&lines=oi!+eu+sou+chess;ricing+no+Hyprland;plugins+pro+Discord;jogos+no+Roblox">
-</picture>
+$ cat ./focus
+linux desktop tooling   hyprland plugins, wayland, quickshell
+client mods             equicord userplugins
+game systems            roblox, luau
+```
 
-Do Brasil 🇧🇷 Passo a maior parte do tempo deixando o meu Linux do meu jeito<br>e criando coisas pro Discord e pro Roblox.
-
-<sub>Linux ricing, Discord plugins and Roblox games, from Brazil.</sub>
-
-</div>
-
-### O que eu ando fazendo
-
-- **Linux do meu jeito:** CachyOS com Hyprland, barra e tela de bloqueio personalizadas no Quickshell e uma tela de login feita por mim
-- **Discord:** plugins pro Equicord, como o [QuestGrinder](https://github.com/shinishiz/QuestGrinder)
-- **Hyprland:** plugins em C++ e o [hyprcanvas](https://github.com/shinishiz/hyprcanvas-shinishiz), um desktop infinito com zoom
-- **Roblox:** jogos e sistemas no Roblox Studio, em Luau
-- **Blender:** modelos 3D pros meus jogos
-
-### Linguagens
+### Stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,lua,cpp,c,bash,qt,css&perline=9" alt="TypeScript, JavaScript, Python, Lua, C++, C, Bash, QML, CSS">
-<br>
-<img src="assets/luau.svg" alt="Luau">
-
-### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=linux,arch,git,nodejs,docker,discordjs,blender&perline=9" alt="Linux, Arch, Git, Node.js, Docker, discord.js, Blender">
-<br>
-<img src="assets/hyprland.svg" alt="Hyprland">
-<img src="assets/cachyos.svg" alt="CachyOS">
-<img src="assets/roblox-studio.svg" alt="Roblox Studio">
 
-### Projetos
+<img src="assets/luau.svg" alt="Luau"> <img src="assets/hyprland.svg" alt="Hyprland"> <img src="assets/roblox-studio.svg" alt="Roblox Studio">
 
-| Projeto | O que é |
+### Projects
+
+| Project | Description |
 |---|---|
-| [QuestGrinder](https://github.com/shinishiz/QuestGrinder) | Plugin do Equicord que faz as missões do Discord sozinho, com painel e atualização automática |
-| [hyprcanvas](https://github.com/shinishiz/hyprcanvas-shinishiz) | Desktop infinito pro Hyprland, com zoom, arrastar e navegação |
+| [QuestGrinder](https://github.com/shinishiz/QuestGrinder) | Equicord userplugin that automates Discord quests, with a queue panel and git-based self-updates |
+| [hyprcanvas](https://github.com/shinishiz/hyprcanvas-shinishiz) | Infinite canvas for Hyprland with zoom, panning and navigation |
 
-### Atividade
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shinishiz&locale=pt_BR&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D">
-  <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=shinishiz&locale=pt_BR&hide_border=true&background=00000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=24292F&dates=57606A&stroke=D0D7DE">
-</picture>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shinishiz/shinishiz/output/snake-dark.svg">
-  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/shinishiz/shinishiz/output/snake-light.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/shinishiz/shinishiz/output/snake-light.svg">
 </picture>
-
-</div>
