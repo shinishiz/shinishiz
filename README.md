@@ -21,17 +21,17 @@ Do Brasil 🇧🇷 Passo a maior parte do tempo deixando o meu Linux do meu jeit
 
 ### Linguagens
 
-<a href="#"><img src="https://skillicons.dev/icons?i=ts,js,py,lua,cpp,c,bash,qt,css&perline=9" alt="TypeScript, JavaScript, Python, Lua, C++, C, Bash, QML, CSS"></a>
+<img src="https://skillicons.dev/icons?i=ts,js,py,lua,cpp,c,bash,qt,css&perline=9" alt="TypeScript, JavaScript, Python, Lua, C++, C, Bash, QML, CSS">
 <br>
-<img src="https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=luau&logoColor=white" alt="Luau">
+<img src="assets/luau.svg" alt="Luau">
 
 ### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=linux,arch,git,nodejs,docker,discordjs,blender&perline=9" alt="Linux, Arch, Git, Node.js, Docker, discord.js, Blender">
 <br>
-<img src="https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=white" alt="Hyprland">
-<img src="https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=cachyos&logoColor=white" alt="CachyOS">
-<img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white" alt="Roblox Studio">
+<img src="assets/hyprland.svg" alt="Hyprland">
+<img src="assets/cachyos.svg" alt="CachyOS">
+<img src="assets/roblox-studio.svg" alt="Roblox Studio">
 
 ### Projetos
 
